@@ -6,6 +6,11 @@ number of orders they have placed. Group the results by employee’s first name.
 
 Please copy & paste your SQL query below AND add an explanation of the query: 
 
+SELECT Employees.FirstName,
+on [Order Details].Quantity,
+join 
+
+
 
 
 4. For submission commit and push this .txt file to Github
